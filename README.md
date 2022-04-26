@@ -3,7 +3,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=SyriusNico&color=red)&nbsp;
 [![GitHub SyriusNico](https://img.shields.io/github/followers/SyriusNico?label=follow&style=social)](https://github.com/SyriusNico)&nbsp;
 ![powered by:coffee](https://img.shields.io/badge/powered%20by-coffee%20%E2%98%95-green)
-### 👨🏻‍💻 &nbsp;About Me
+### 😁 &nbsp;About Me
 
 💡 &nbsp;I am looking for a first job as a web developer \
 💻 &nbsp;I'm currenty student at Openclassrooms\
@@ -25,6 +25,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+### 📊GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SyriusNico&theme=black&white_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SyriusNico&theme=black&white_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyriusNico&theme=black&white_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📫 &nbsp; How to reach me:
 
