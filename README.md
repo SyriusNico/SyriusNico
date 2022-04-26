@@ -2,7 +2,7 @@
 ![version :26.01.2022](https://img.shields.io/badge/version-26.04.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=SyriusNico&color=red)&nbsp;
 [![GitHub SyriusNico](https://img.shields.io/github/followers/SyriusNico?label=follow&style=social)](https://github.com/SyriusNico)&nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+![powered by:coffee](https://img.shields.io/badge/powered%20by-coffee%20%E2%98%95-green)
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I am looking for a first job as a web developer \
