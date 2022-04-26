@@ -26,9 +26,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 📊GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SyriusNico&theme=black&white_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SyriusNico&theme=black&white_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyriusNico&theme=black&white_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SyriusNico&theme=dark_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SyriusNico&theme=dark_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyriusNico&theme=dark_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📫 &nbsp; How to reach me:
 
