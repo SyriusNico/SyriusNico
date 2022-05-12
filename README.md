@@ -6,7 +6,7 @@
 ### 😁 &nbsp;About Me
 
 💡 &nbsp;I am looking for a first job as a web developer \
-💻 &nbsp;I'm currenty student at Openclassrooms\
+💻 &nbsp;I'm currently student at Openclassrooms\
 🎓&nbsp;After a master's degree in law, I converted to a developer\
 🌱 &nbsp;I seek to improve myself constantly and always increase my skills\
 🎨 &nbsp;In my free time I like to play video games, watch series or movies, read sf or fantasy.\
